@@ -16,7 +16,7 @@ export class HomePage {
   }
   
   getNumber() {
-     this.http.get<number[]>("http://node18.codenvy.io:40364/api/Values/GetNumbers/" + this.n)
+     this.http.get<number[]>("http://node18.codenvy.io:40507/api/Values/GetNumbers/" + this.n)
         .subscribe(data => {
             this.numbers = data;
             console.log(this.numbers);

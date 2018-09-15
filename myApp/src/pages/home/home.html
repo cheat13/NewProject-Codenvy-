@@ -1,7 +1,7 @@
 <ion-header>
 	<ion-navbar>
 		<ion-title>
-			Ionic Blank
+			Calculate
 		</ion-title>
 	</ion-navbar>
 </ion-header>
@@ -19,6 +19,8 @@
 		<div padding>
 			<button ion-button block round (click)="getNumber()">OK</button>
 		</div>
+		
+		<div *ngFor="let n of numbers">{{n}} ,</div>
 
 
 	</ion-grid>

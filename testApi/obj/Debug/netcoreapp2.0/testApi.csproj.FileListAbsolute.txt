@@ -1,0 +1,16 @@
+/projects/NewProject-Codenvy-/testApi/obj/Debug/netcoreapp2.0/testApi.csproj.CoreCompileInputs.cache
+/projects/NewProject-Codenvy-/testApi/obj/Debug/netcoreapp2.0/testApi.AssemblyInfoInputs.cache
+/projects/NewProject-Codenvy-/testApi/obj/Debug/netcoreapp2.0/testApi.AssemblyInfo.cs
+/projects/NewProject-Codenvy-/testApi/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/projects/NewProject-Codenvy-/testApi/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/projects/NewProject-Codenvy-/testApi/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/projects/NewProject-Codenvy-/testApi/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/projects/NewProject-Codenvy-/testApi/bin/Debug/netcoreapp2.0/testApi.deps.json
+/projects/NewProject-Codenvy-/testApi/bin/Debug/netcoreapp2.0/testApi.runtimeconfig.json
+/projects/NewProject-Codenvy-/testApi/bin/Debug/netcoreapp2.0/testApi.runtimeconfig.dev.json
+/projects/NewProject-Codenvy-/testApi/bin/Debug/netcoreapp2.0/testApi.dll
+/projects/NewProject-Codenvy-/testApi/bin/Debug/netcoreapp2.0/testApi.pdb
+/projects/NewProject-Codenvy-/testApi/bin/Debug/netcoreapp2.0/myApi.dll
+/projects/NewProject-Codenvy-/testApi/bin/Debug/netcoreapp2.0/myApi.pdb
+/projects/NewProject-Codenvy-/testApi/obj/Debug/netcoreapp2.0/testApi.dll
+/projects/NewProject-Codenvy-/testApi/obj/Debug/netcoreapp2.0/testApi.pdb

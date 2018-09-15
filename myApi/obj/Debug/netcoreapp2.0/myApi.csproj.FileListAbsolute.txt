@@ -1,0 +1,12 @@
+/projects/NewProject-Codenvy-/myApi/obj/Debug/netcoreapp2.0/myApi.csproj.CoreCompileInputs.cache
+/projects/NewProject-Codenvy-/myApi/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/projects/NewProject-Codenvy-/myApi/obj/Debug/netcoreapp2.0/myApi.AssemblyInfoInputs.cache
+/projects/NewProject-Codenvy-/myApi/obj/Debug/netcoreapp2.0/myApi.AssemblyInfo.cs
+/projects/NewProject-Codenvy-/myApi/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/projects/NewProject-Codenvy-/myApi/bin/Debug/netcoreapp2.0/myApi.deps.json
+/projects/NewProject-Codenvy-/myApi/bin/Debug/netcoreapp2.0/myApi.runtimeconfig.json
+/projects/NewProject-Codenvy-/myApi/bin/Debug/netcoreapp2.0/myApi.runtimeconfig.dev.json
+/projects/NewProject-Codenvy-/myApi/bin/Debug/netcoreapp2.0/myApi.dll
+/projects/NewProject-Codenvy-/myApi/bin/Debug/netcoreapp2.0/myApi.pdb
+/projects/NewProject-Codenvy-/myApi/obj/Debug/netcoreapp2.0/myApi.dll
+/projects/NewProject-Codenvy-/myApi/obj/Debug/netcoreapp2.0/myApi.pdb
